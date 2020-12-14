@@ -1,12 +1,14 @@
 # Kickstarting with Excel
 Performing analysis on Kickstarter data to uncover trends
+
 ## Overview of Project
 Louise owns Kickstarter, a crowdfunding platform that funds and supports various campaigns all over the world. We were provided data that 
 included approximately 4,115 different campaigns. Louise requsted that we analyze the data from the various campaigns
 to provide insight and aid in decision making going-forward. 
 
-# An Analysis of Kickstarter Campaigns
+### Purpose
 
+## Analysis and Challenges
 An initial look at the data focused on parent categories to examine the makeup of successful campaigns. Theatre was by far the most
 successful, followed by music, then film & video. Food and games were both plagued by high failure rates.
 
@@ -27,9 +29,6 @@ Another metric that we examined was the length of fundraising campaign and it's 
 gain insight on whether campaign length might be tied to its outcome. 
 
 Refer to the GitHub Help page (https://docs.github.com/en) for additional information about creating documentation using markdown format.
-### Purpose
-
-## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
 
