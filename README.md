@@ -2,15 +2,16 @@
 Performing analysis on Kickstarter data to uncover trends
 
 ## Overview of Project
-Louise owns Kickstarter, a crowdfunding platform that funds and supports various campaigns all over the world. We were provided data that 
+Louise owns Kickstarter, a crowdfunding platform that funds and supports various entertainment campaigns all over the world. We were provided data that 
 included approximately 4,115 different campaigns. Louise requsted that we analyze the data from the various campaigns
-to provide insight and aid in decision making going-forward. 
+to provide insight and aid in decision making for her company going-forward. 
 
 ### Purpose
 
 ## Analysis and Challenges
 An initial look at the data focused on parent categories to examine the makeup of successful campaigns. Theatre was by far the most
 successful, followed by music, then film & video. Food and games were both plagued by high failure rates.
+
 
 We were able to further drill-down the data by creating campaign sub-categories based on their parent categories. The analysis reveals the sheer 
 number of Parent Sub-Category:plays is significantly higher than any other  sub-category. They are also the most successful campaigns, when 
